@@ -51,5 +51,5 @@ for word in words:
 
 # make a list with 5 words
 
-fiveWords = [word for word in words in len(word) == 5]
+fiveWords = [word for word in words if len(word) == 5]
 print(fiveWords)
