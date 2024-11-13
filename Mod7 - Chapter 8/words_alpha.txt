@@ -26,3 +26,6 @@ the fury
 ava
 arnold
 aba
+apple
+cherry
+ruby
